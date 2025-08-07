@@ -8,20 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-- [🎯 Project Overview](#-project-overview)
-- [💼 Business Scenario](#-business-scenario)
-- [🏗️ Architecture](#️-architecture)
-- [🛠️ Technologies Stack](#️-technologies-stack)
-- [📈 Project Phases](#-project-phases)
-- [🎓 Learning Objectives](#-learning-objectives)
-- [📊 Success Metrics](#-success-metrics)
-- [🚀 Getting Started](#-getting-started)
-- [📖 Documentation](#-documentation)
-- [🤝 Contributing](#-contributing)
-
----
-
 ## 🎯 Project Overview
 
 **CloudBridge Identity Migration** is a comprehensive hybrid identity and Microsoft 365 migration project that simulates a real-world enterprise scenario. This project demonstrates the complete migration journey from an on-premises Active Directory environment to a modern hybrid cloud infrastructure supporting **20 users**.
@@ -322,18 +308,18 @@ Upon completion of this project, I will have demonstrated proficiency in:
 
 ---
 
-## 🚀 Getting Started
+## 🎯 Prerequisites
 
-### Prerequisites
-- VMware Workstation 17 (or equivalent hypervisor)
-- Microsoft 365 E5 Developer Tenant
-- Windows Server 2025 ISO
-- Basic knowledge of Active Directory and PowerShell
+Before starting this project, you'll need:
+
+- **VMware Workstation 17** (or equivalent hypervisor)
+- **Microsoft 365 E5 Developer Tenant** (free developer program)
+- **Windows Server 2025 ISO** (available through Microsoft Insider Program)
+- **Basic knowledge** of Active Directory and PowerShell
+- **Dedicated lab environment** (recommended 16GB+ RAM for optimal performance)
 
 
 ---
-
-
 
 ## 🤝 Contributing
 
@@ -369,9 +355,9 @@ Upon completion, this project will demonstrate:
 
 ## 📞 Contact & Support
 
-**Project Maintainer**: [Himanshu Gandhi]
+**Project Maintainer**: Himanshu Gandhi
 - 📧 Email: [gandhi111000@hotmail.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/himanshu-gandhi-891204160/)
 - 🐙 GitHub: [@yourusername](https://github.com/himanshu3024)
 
 **Project Links**:
